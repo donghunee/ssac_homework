@@ -20,3 +20,7 @@ ssac 과정 과제 제출 현황입니다.
 오주환 : [과제링크 😎](https://github.com/juhwano/node-board)
 <br />
 이민희 : [과제 링크 😂](https://github.com/himinhee/smallthings/tree/main/ssac_server)
+
+<br />
+
+송우제: [과제링크😇](https://github.com/WoodysCloud/ssac_project)
