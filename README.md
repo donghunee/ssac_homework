@@ -21,4 +21,4 @@ ssac 과정 과제 제출 현황입니다.
 <br />
 이민희 : [과제 링크 😂](https://github.com/himinhee/smallthings/tree/main/ssac_server)
 <br />
-주영웅 : [과제 링크 😆](https://github.com/0woong/ssac_project.git)
+주영웅 : [과제 링크 😥](https://github.com/0woong/ssac_project.git)
