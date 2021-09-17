@@ -14,4 +14,4 @@ ssac 과정 과제 제출 현황입니다.
 <br/>
 김용범 : [과제](https://github.com/Kim-yongbeom/ssac_homework.git)
 <br/>
-임도훈 : [과제 링크] (https://github.com/Dohun-Im/ssac_prj.git)
+임도훈 : [과제 링크](https://github.com/Dohun-Im/ssac_prj.git)
