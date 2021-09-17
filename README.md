@@ -5,6 +5,10 @@ ssac 과정 과제 제출 현황입니다.
 
 ## 과제 제출 현황
 
+<<<<<<< HEAD
+이동훈 : [과제 링크 입니다~!!](https://www.github.com)
+기호찬 : [과제 테스트](https://naver.com)
+=======
 이동훈 : [과제 링크 입니다~! 🐬](https://www.github.com)
 <br/>
 김현우 : [과제 링크 입니다~!! 🔥](https://github.com/hyunwoo-developer/ssac_dbsignup.git)
@@ -24,3 +28,4 @@ ssac 과정 과제 제출 현황입니다.
 변윤수 : [과제 링크 😂](https://github.com/YOONSOOBYUN/ssac_test1)
 <br />
 송우제: [과제링크😇](https://github.com/WoodysCloud/ssac_project)
+>>>>>>> 5571cb9c3fefdfd6ad2dbdc13c6757330927ddd7
