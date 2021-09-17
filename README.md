@@ -14,3 +14,5 @@ ssac 과정 과제 제출 현황입니다.
 김용범 : [과제 링크 입니다 👻](https://github.com/Kim-yongbeom/ssac_mysql_mine.git)
 <br />
 이현주 : [과제링크 🤗](https://github.com/HYUN816/ssac_serverdb_homework.git)
+<br/>
+오주환 : [과제링크 😎](https://github.com/juhwano/node-board)
