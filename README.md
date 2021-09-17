@@ -16,3 +16,5 @@ ssac 과정 과제 제출 현황입니다.
 이현주 : [과제링크 🤗](https://github.com/HYUN816/ssac_serverdb_homework.git)
 <br />
 오원주 : [과제링크 👍](https://github.com/PancakeCookie/SSAC_Back-End.git)
+<br />
+오주환 : [과제링크 😎](https://github.com/juhwano/node-board)
