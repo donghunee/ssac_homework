@@ -7,5 +7,9 @@ ssac 과정 과제 제출 현황입니다.
 
 
 이동훈 : [과제 링크 입니다~!!](https://www.github.com)
+<br/>
 김현우 : [과제 링크 입니다~!!](https://github.com/hyunwoo-developer/ssac_dbsignup)
+<br/>
+오원주 : [과제 링크입니다](https://github.com/PancakeCookie/ssac_homework.git)
+
 
