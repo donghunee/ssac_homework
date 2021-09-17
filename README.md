@@ -24,3 +24,5 @@ ssac 과정 과제 제출 현황입니다.
 변윤수 : [과제 링크 😂](https://github.com/YOONSOOBYUN/ssac_test1)
 <br />
 송우제: [과제링크😇](https://github.com/WoodysCloud/ssac_project)
+<br />
+윤세종 : [과제링크 🐴](https://github.com/YONo92/ssac_sookjae.git)
